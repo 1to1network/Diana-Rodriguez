@@ -2487,7 +2487,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #6ebfe5;
+			background-color: #ded227;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -3445,7 +3445,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #2e3842;
+		background: #ded227;
 		height: 3em;
 		left: 0;
 		line-height: 3em;
